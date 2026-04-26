@@ -1,0 +1,9 @@
+{
+    "name": "Bioprinting Plugin",
+    "author": "Mauricio Ramos",
+    "version": "1.0.0",
+    "cura_version": "5.7.0",
+    "api_version": "8.7.0",
+    "supported_sdk_versions": ["8.7.0"],
+    "description": "Complemento de laminado con gestion de biotintas para bioimpresoras de extrusión. Tesis PUCP Ingenieria Biomedica."
+}
