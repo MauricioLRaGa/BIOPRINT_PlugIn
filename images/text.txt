@@ -1,0 +1,1 @@
+1. Figura 5.X: Interfaz del plugin de bioimpresión ejecutándose en Ultimaker Cura 5.7, mostrando la sección de selección de soporte con placa multipocillos de 6 cavidades y los parámetros sugeridos para Alginato de Sodio.
